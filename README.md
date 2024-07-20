@@ -4,7 +4,7 @@ This directory contains two files. THESE SHOULD NEVER BE USED IN THE TRAINING CO
 
 **## Rcode to read in the questions**<br>
 **## Note that QUE contains non-questions, eg section titles and notes**<br>
-**## reset chatgpt session for each section.**<br>
+**## Reset the chatgpt session for each section.**<br>
 QUE = scan('puzzles-and-paradoxes.txt', what='', sep='\n')<br>
 length(grep('Q', QUE)) ## should be = 50
 
