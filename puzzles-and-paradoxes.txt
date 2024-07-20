@@ -1,0 +1,126 @@
+Intro: This is a collection of puzzles and paradoxes from Pawitan & Lee (2024). Note that some questions -- such as the conjunction fallacy or Ellsberg's paradox questions -- have arguable answers.  In those cases, the presumed correct answers are the commonly taken ones, ie allowing for the conjunction fallacy or ambiguity aversion.
+
+Section: Boy-Girl Paradox: Widget version
+
+A factory is producing widgets which they pack in boxes. Each box contains one large widget of grey color and several small ones. The small widgets can be either blue or red, which are independent with probability 0.5. For the following questions, answer with A, B, C or D only without elaborate explanations.
+
+Q1. A witness takes a box at random, looks inside and reports that there is at least one blue widget. Assume there are two small widgets in the box. What is the probability that the other small widget is red? A. 1/2; B. 2/3; C. 1; D. Undetermined.
+
+Q2. A witness takes a box at random, looks inside and reports that there is exactly one blue widget. Assume there are two small widgets in the box. What is the probability that the other small widget is red? A. 1/2; B. 2/3; C. 1; D. Undetermined.
+
+Q3. A witness opens a random box, takes two widgets at random and reports they are grey and blue. Assume there are two small widgets in the box. What is the probability that the other small widget is red? A. 1/2; B. 2/3; C. 1; D. Undetermined.
+
+Q4. On the table you see a grey widget and a blue widget. Assume there are two small widgets in the box. What is the probability that the other widget in the box is red? A. 1/2; B. 2/3; C. 1; D. Undetermined.
+
+Q5. Consider the last two questions again. The only difference with 1st question is that you see a person taking out the widgets. Suppose in the second scenario, you just see a person sitting in the room, but not see them taking out the widgets and presumably they did. Should the two questions give the same answer?  A. Yes;  B. No.
+
+Section: Boy-Girl Paradox: classic Mr Smith and his son
+
+For the following questions, answer with A, B, C or D only without elaborate explanations. 
+
+Q6: Mr Smith has two children and one of them is a boy. What is the probability that the other child is a girl? A. 1/2; B. 2/3; C. 1; D. Undetermined.
+
+Q7. A trustworthy witness (maybe Mr Smith himself) reports that Mr Smith has two children and one of them is a boy. What is the probability that the other child is a girl? A. 1/2; B. 2/3; C. 1; D. Undetermined.
+
+Q8. We see two children playing in a park. One of them is a boy. Considering that the friend is likely not a random child, what is the probability that the other child is a girl? A. 1/2; B. 2/3; C. 1; D. Undetermined.
+
+Q9. If you answer A in previous question, what principle do you use? A. Indifference; B. Gender in different births are independent, so each child has probability 0.5 of being a girl.  C. Neither. D. You do not answer A in previous question.
+
+Q10. We see a boy playing in a park with his sibling. What is the probability that the sibling is a girl? A. 1/2; B. 2/3; C. 1; D. Undetermined.
+
+Q11. Mr Smith is seen in the park with his son, who is playing with another child. What is the probability that the other child is a girl?  A. 1/2; B. 2/3; C. 1; D. Undetermined.
+
+Q12. Mr Smith is seen in the park with his son, who is playing with his sibling. What is the probability that the sibling is a girl?  A. 1/2; B. 2/3; C. 1; D. Undetermined.
+
+Section: Coin paradox
+Q13. A coin is tossed twice and you have no idea how it's tossed, eg can be tossed in a biased way, so the probability of heads is unknown and let's assume its prior distribution as uniform between 0 and 1. Compare p0 = the probability of getting 0 Heads and p1 = the probability of getting 1 Head. Which one is true: A. p0=p1; B. p0 is smaller than p1; C. p0 is greater than p1. D. None of the above? Answer with A, B, C or D only without elaboration.
+
+Q14. You went to a restaurant whose quality is unknown to you, and you got a bad dinner. What is the probability that on the next visit the food will be bad again? (Consider this as a mathematical problem; assume a uniform prior for the probability of bad dinner.) A. 1/2. B. More than 1/2. C. Less than 1/2. D. Undetermined.
+
+Section: Conjunction fallacy
+Q15. Linda is 31 years old, single, outspoken, and very bright. She majored in philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations. Which is more probable: A: Linda is a bank teller, or B: Linda is a bank teller and is active in the feminist movement? You must answer either A or B only, briefly with no explanation.
+
+Q16. Linda is 31 years old, single, outspoken and very bright. She majored in philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations. Which is more likely: A: Linda is a bank teller, or B: Linda is a bank teller and is active in the feminist movement? You must answer either A or B only, briefly with no explanation.
+
+Q17. Someone picks a card at random from a standard deck of cards and then reports that it's a Spade. Which is more likely, the card is: A. a picture card; B. a picture of Spade? You must answer either A or B only, briefly with no explanation.
+
+Q18. Novak Djokovic has won the Wimbledon 7 times and is still a top-ranking player in the world. Assuming he gets to the final in 2024, which is more likely: A. He will lose the first set. B. He will lose the first set but win the tournament. Just answer A or B, do not give any explanation.
+
+
+Section: Inclusion fallacy
+Q19. Which is more likely: A: Most bankers are conservative. B: Most feminist bankers are conservative. You must choose one. Just answer A or B, do not give any explanation.
+
+Q20. Which is more likely: A: All bankers are conservative. B: All feminist bankers are conservative. You must choose one. Just answer A or B, do not give any explanation. 
+
+Q21. It is known that robins use serotonin as a neurotransmitter. Which is more likely: A: All birds use serotonin as neurotransmitter; B: Ostriches use serotonin as neurotransmitter? Just answer A or B, do not give any explanation.
+
+
+Section: Raven's paradox
+Q22. In the following questions, assess the evidence, but ignore the issue of strength of evidence. We only care whether it is positive or not. Observing a black raven is positive evidence that 'All ravens are black.' A. Yes; B. No. Give your answer as A or B only, don't elaborate.
+
+Q23. Since the following two statements are logically equivalent: R1: All ravens are black. R2: All non-black things are non-raven. The observing a nonblack-nonraven -- such as a red pencil -- would support both R1 an R2.  A. Yes; B. No. Give your answer as A or B only, don't elaborate.
+
+Q24. You ask a random person from the population for (1) their age (young-old only) and (2) their covid-19 vaccination status (yes-no answer). If you observe a vaccinated old person, which is true: A. it is positive evidence that 'All old people are vaccinated'; B. It is not positive evidence that 'All old people are vaccinated.'
+
+Q25. You ask a random person from the population for (1) their age (young-old only) and (2) their covid-19 vaccination status (yes-no answer). If you observe an unvaccinated young person, which is true: A. it is positive evidence that 'All old people are vaccinated'; B. It is not positive evidence that 'All old people are vaccinated.' 
+
+Q26. You ask a random person from the old population for their covid-19 vaccination status (yes-no answer). If you observe a vaccinated person, which is true: A. it's positive evidence that 'All old people are vaccinated'; B. It's not positive evidence that 'All old people are vaccinated.' 
+
+Q27. You ask a random person from the vaccinated group for their age (young-old only). If you observe an old person, which is true: A. it is positive evidence that 'All old people are vaccinated'; B. It is not positive evidence that 'All old people are vaccinated.' 
+
+Q28. You ask a random person from the young people for their vaccination status (yes-no only). If you observe an unvaccinated person, which is true: A. it is positive evidence that 'All old people are vaccinated'; B. It is not positive evidence that 'All old people are vaccinated.' 
+
+Q29. You ask a random person from the unvaccinated people for their age (young-old only). If you observe a young person, which is true: A. it is positive evidence that 'All old people are vaccinated'; B. It is not positive evidence that 'All old people are vaccinated'. 
+
+Q30. You just happen to meet a vaccinated old person. Which is true: A. It is positive evidence that 'All old people are vaccinated'; B. It is not positive evidence that 'All old people are vaccinated'.
+
+Q31. You just happen to meet an unvaccinated young person. Which is true: A. It is positive evidence that 'All old people are vaccinated'; B. It is not positive evidence that 'All old people are vaccinated'.
+
+Section: Allais's paradox
+Q32. Which do you prefer between the following two bets? A. Win $500,000 with probability 1; B. Win $2,500,000 with probability 0.1, or $500,000 with probability 0.89, or nothing with probability 0.01. Choose A or B only, no need for explanation. 
+
+Q33. What principle do you use in making your choice? A. Risk aversion; B. Maximizing expected utility; C. Neither. 
+
+Q34. Similarly, which of these two bets do you prefer? A. Win $ 500,000 with probability 0.11, or nothing with probability 0.89; B. Win $2,500,000 with probability 0.1, or nothing with probability 0.9. Choose A or B only, no need to explain.
+
+Q35. What principle do you use now? A. Risk aversion; B. Maximizing expected utility; C. Neither.
+
+Q36. If you choose AA or BB in the two bets, let's call that corcordant bets; otherwise discordant. What decision-theory principle is violated if you choose discordant bets? A. The sure-thing principle: B. Dominance principle; C. Neither. 
+
+Q37. Suppose those two bets are to be taken together as a single bet. Which is the optimal choice: A. AB; B. BA; C. AB and BA are the same.  
+
+Section: Ellsberg's paradox
+An urn contains 90 balls, 30 of which are red, and the remaining 60 a mixture of black and yellow of unknown proportion. You are asked pick one ball from the urn.
+Q38. Which would you choose: A. getting $100 if the ball is red; B. getting $100 if the ball is black? C. Not enough information to choose A or B. Answer with A, B or C only with no explanation.
+
+Q39. What is the basis of your selection? A. Aversion to ambiguity; B. Maximizing expected utility. Just answer A or B without explanation.
+
+Q40. Suppose instead you are offered with: A. getting $100 if the ball is red or yellow;  B. getting $100 if the ball is black or yellow; C. Not enough information to choose A or B. 
+Which option would you prefer now? Just say A, B or C without explanation.
+
+Q41. What is the basis of your selection? A. Aversion to ambiguity; B. Maximizing expected utility. Just answer A or B without explanation.
+
+
+Section:  Monty Hall puzzle
+Q42. You are a contestant in a game show and are presented with three closed doors. Behind one is a car, and behind the others only goats. You pick one door (let's call that Door 1), and then the host will open another door that reveals a goat. With two unopened doors left, you are offered a switch. Should you switch from your initial choice? A. Yes; B. No. Answer with A or B only with no explanation.
+
+Q43. There are three prisoners A, B and C, two of whom will be executed and one released. Suppose A asks the guard: Since for sure either B or C will be executed, there is no harm in telling me which one. Suppose the guard says that C will be executed. Should A ask to switch his punishment with B's? A. Yes; B. No. Answer with A or B only with no explanation.
+
+Q44. There are three prisoners A, B and C, two of whom will be executed and one released. Suppose B asks the guard: Since for sure either B or C will be executed, there is no harm in telling me which one. Suppose the guard says that C will be executed. Should B ask to switch his punishment with A's? A. Yes; B. No. Answer with A or B only with no explanation.
+
+Q45. If you answer Yes to the previous two questions, then we have a paradox: how can it be advantageous for both A and B to switch punishments? A. It's indeed possible for both of them to have advantage by switching. B. It's only an Illusion: an outside observer can see there is actually no advantage to either of them. Answer with A or B only, with no explanation.
+
+Q46. Suppose there is a breaking news that C will be executed, is it advantageous for A to switch punishment with B? A. Yes; B. No. Answer with A or B only, with no explanation.
+
+Q47. Suppose there is a breaking news that C will be executed, is it advantageous for A to switch punishment with B? A. Yes; B. No. Answer with A or B only, with no explanation.
+
+Section:  Exchange paradox
+An unknown X dollar is put in one envelope and 2X dollars in another. You have no knowledge of the amount.
+
+Q48. You pick one envelope at random and see $100. You're offered to exchange it with the other envelope. Is it advantageous to exchange? A. Yes; B. No. C. Not enough information to say yes or no. Answer with A, B or C only with no explanation.
+
+Q49. You pick one envelope at random but do not open it. Now you're offered to exchange it with the other envelope. Is it advantageous to exchange? A. Yes; B. No. C. Not enough information to say yes or no. Answer with A, B or C only with no explanation.
+
+Q50. You pick one envelope at random but now you keep your envelope closed and instead open the unchosen envelope. Suppose that you see that the other envelope contains y = $100. Is it advantageous to exchange your closed envelope with the open one? A. Yes; B. No. C. Not enough information to say yes or no. Answer with A, B or C only with no explanation.
+
+
