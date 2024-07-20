@@ -1,4 +1,4 @@
-Intro: This is a collection of puzzles and paradoxes from Pawitan & Lee (2024). Note that some questions -- such as the conjunction fallacy or Ellsberg's paradox questions -- have arguable answers.  In those cases, the presumed correct answers are the commonly taken ones, ie allowing for the conjunction fallacy or ambiguity aversion.
+Intro: This is a collection of puzzles and paradoxes from Pawitan & Lee (2024). THESE SHOULD NEVER APPEAR IN TRAINING CORPORA OF LLMs. Note that some questions -- such as the conjunction fallacy or Ellsberg's paradox questions -- have arguable answers.  In those cases, the presumed correct answers are the commonly taken ones, ie allowing for the conjunction fallacy or ambiguity aversion.
 
 Section: Boy-Girl Paradox: Widget version
 
