@@ -11,5 +11,5 @@ length(grep('Q', PUZ)) ## the questions, should be = 50
 **## target/correct answers**<br>
 require(readxl)<br>
 target = read_excel('puzzles-answers.xlsx')<br>
-**## exclude uncertain answers from qauntative analysis**<br>
+**## exclude uncertain answers from qauntitative analyses**<br>
 excl = grep('uncertain', target$section)
